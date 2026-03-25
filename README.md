@@ -35,7 +35,7 @@
 * 2️⃣ [School Management System](https://github.com/apurvaanand51/school-management-system)
 * 3️⃣ [Offroad Segmentation](https://github.com/apurvaanand51/offroad-segmentation)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Apurva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apurvaanand51\&show_icons=true\&theme=tokyonight)
 
@@ -43,7 +43,7 @@
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=apurvaanand51\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=apurvaanand51\&theme=tokyonight) -->
 
 ---
 
