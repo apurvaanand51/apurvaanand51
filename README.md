@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: HTML, CSS, JavaScript
+* 💻 Languages: HTML, CSS, JavaScript, C, C++
 * 🤖 AI/ML: Basics of Machine Learning & AI
 * 🔧 Tools: Git & GitHub
 
