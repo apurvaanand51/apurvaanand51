@@ -34,6 +34,7 @@
 * 1️⃣ [Monte Carlo Simulation](https://github.com/apurvaanand51/monte-carlo-simulation)
 * 2️⃣ [School Management System](https://github.com/apurvaanand51/school-management-system)
 * 3️⃣ [Offroad Segmentation](https://github.com/apurvaanand51/offroad-segmentation)
+* 4️⃣ [Martingale Strategy Simulation](https://github.com/apurvaanand51/martiangle-strategy)
 
 <!-- ## 📊 GitHub Stats
 
