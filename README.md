@@ -39,9 +39,13 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/apurvaanand51/apurvaanand51/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/apurvaanand51/apurvaanand51/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/apurvaanand51/apurvaanand51/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=apurvaanand51&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvaanand51&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurvaanand51&theme=tokyo-night&hide_border=true" />
 </div>
 
 ###
